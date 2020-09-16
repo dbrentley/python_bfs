@@ -8,5 +8,5 @@ Result
 
 ```
 Searching for Kevin Bacon beginning with Tim Progosh
-Spotlight > Billy Crudup > Eat Pray Love > Julia Roberts > Flatliners > Kevin Bacon
+Tim Progosh > Spotlight > Billy Crudup > Eat Pray Love > Julia Roberts > Flatliners > Kevin Bacon
 ```

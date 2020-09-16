@@ -63,8 +63,7 @@ class Graph:
         path = [end_node]
         next_node = end_node.parent
         while next_node:
-            if next_node.parent:
-                path.append(next_node)
+            path.append(next_node)
             next_node = next_node.parent
 
         count = 0
