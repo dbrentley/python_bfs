@@ -2,7 +2,7 @@
 
 Given the JSON movie database, find the link to Kevin Bacon.
 
-`graph.search('Tim Progosh', 'Kevin Bacon')
+`graph.search('Tim Progosh', 'Kevin Bacon')`
 
 Result
 
